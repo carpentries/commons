@@ -13,7 +13,7 @@ Housed on GitHub, all Carpentries’ lessons are open source, with an open contr
 collaboratively created and maintained by volunteers. Lessons are taught by instructors in two-day workshops.
 
 I have volunteered as a [Software|Data] Carpentry instructor for YYY years. Being a Carpentries' instructor has sharpened my 
-kills in the following ways. I have
+skills in the following ways. I have
 
 - developed my teaching abilities, both through the instructor training course I attended to certify as an instructor and through regular teaching `[perhaps list # workshops taught]`
 - gained greater insight into and knowledge of the tools taught at workshops (git, Unix shell, Python and R)
