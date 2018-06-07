@@ -3,9 +3,7 @@ This is reusable text that can be used when you need to describe what the Carpen
 ------------
 
 ### What are the Carpentries?
-
-Software Carpentry and Data Carpentry are non-profit volunteer organizations who teach essential computing and data skills. 
-We exist because the skills needed to do computational, data-intensive research are not part of basic research training 
+Software Carpentry (SWC) and Data Carpentry (DC) are two programs of The Carpentries (a fiscally sponsored project of Community Initiatives). We teach essential computing and data skills. We exist because the skills needed to do computational, data-intensive research are not part of basic research training 
 in most disciplines.
 
 ### About Software Carpentry     
