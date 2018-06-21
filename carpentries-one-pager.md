@@ -2,7 +2,7 @@
 
 ## The Carpentries
 
-We teach coding and data skills for researchers 
+We teach coding and data skills for researchers. 
 
 ### The Problem 
 
@@ -14,11 +14,11 @@ Software Carpentry and Data Carpentry teach your researchers foundational comput
 
 ### Why is that important? 
 
-Learning new skills is one thing. Embedding them in your organization is another. It takes a supportive community to help people integrate new skills and make them part of daily practice. 
+Learning new skills is one thing. Embedding them in your organisation is another. It takes a supportive community to help people integrate new skills and make them part of daily practice. 
 
 ### How do we help? 
 
-Software and Data Carpentry partner with institutions to build researcher capacity within your organisation. We can help you run two-day workshops that introduce best practices around programming and data analysis to researchers. We train researchers as instructors. These instructors join our global community, sharing lessons, teaching tips and practices with each other. We continue mentoring those instructors, who, with their learners, become the core of new communities at your organization. 
+Software and Data Carpentry partner with institutions to build researcher capacity within your organisation. We can help you run two-day workshops that introduce best practices around programming and data analysis to researchers. We train researchers as instructors. These instructors join our global community, sharing lessons, teaching tips and practices with each other. We continue mentoring those instructors, who, with their learners, become the core of new communities at your organisation. 
 
 ### Who we are 
 
@@ -38,6 +38,6 @@ To discuss workshops, memberships, and instructor training contact: *team@carpen
 
 **https://carpentries.org/**
 
-**1,350 Instructors | 1,350 Workshops | 30,000 Learners | 38 Countries | 7 continents**
+**1,480 Instructors | 1,332 Workshops | 37,000 Learners | 44 Countries | 7 continents**
 
 > Please note: numbers above will alter. We will update regularly.
