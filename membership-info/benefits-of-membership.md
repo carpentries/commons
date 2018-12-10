@@ -8,7 +8,7 @@ As data gets bigger and more and more research requires computation, your resear
 Many would like to work more efficiently, but don't know how. No pathway exists to help many graduate students and postdocs 
 learn crucial computational and data science skills.
 
-### This is a problem Software and Data Carpentry can fix.
+### This is a problem Software, Data and Library Carpentry can fix.
 
 We teach researchers foundational computing and data skills. We also help build local communities of practice around tools and disciplines.
 
@@ -18,7 +18,7 @@ Learning new skills is one thing. Embedding them is another.  It takes a support
 
 ### How do we help?
 
-1. Software and Data Carpentry partner with institutions to build researcher capacity within your organisation. 
+1. Software, Data and Library Carpentry partner with institutions to build researcher capacity within your organisation. 
 2. We run two-day workshops that introduce coding and coding best practice to researchers and teach them the basics of data science. 
 3. We train new instructors for you so you get more workshops taught. 
 4. We continue mentoring those instructors, who, with their learners, become the core of new communities around disciplines and tools.
@@ -34,11 +34,11 @@ Learning new skills is one thing. Embedding them is another.  It takes a support
 
 ### Who we are
 
-Software Carpentry and Data Carpentry are non-profit volunteer organizations who teach essential computing and data skills. 
+The Carpentries is a non-profit volunteer organization that teaches essential computing and data skills. 
 We exist because the skills needed to do computational, data-intensive research are not offered as basic research 
 training in most universities or disciplines.
 
-### Software and Data Carpentry offer
+### Software, Data and Library Carpentry offer
 
 - Open source, community-developed lessons
 - Workshops based on a learn-by-doing, ‘code with me’ approach
