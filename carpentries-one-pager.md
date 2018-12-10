@@ -10,7 +10,7 @@ Researchers of all disciplines need new skills to be productive in this data-ric
 
 ### The Solution 
 
-Software Carpentry and Data Carpentry teach your researchers foundational computing and data skills. We can also help you build local communities of practice around tools and disciplines.
+Software Carpentry, Data Carpentry and Library Carpentry teach your researchers foundational computing and data skills. We can also help you build local communities of practice around tools and disciplines.
 
 ### Why is that important? 
 
@@ -18,11 +18,11 @@ Learning new skills is one thing. Embedding them in your organisation is another
 
 ### How do we help? 
 
-Software and Data Carpentry partner with institutions to build researcher capacity within your organisation. We can help you run two-day workshops that introduce best practices around programming and data analysis to researchers. We train researchers as instructors. These instructors join our global community, sharing lessons, teaching tips and practices with each other. We continue mentoring those instructors, who, with their learners, become the core of new communities at your organisation. 
+Software, Data and Library Carpentry partner with institutions to build researcher capacity within your organisation. We can help you run two-day workshops that introduce best practices around programming and data analysis to researchers. We train researchers as instructors. These instructors join our global community, sharing lessons, teaching tips and practices with each other. We continue mentoring those instructors, who, with their learners, become the core of new communities at your organisation. 
 
 ### Who we are 
 
-Software Carpentry and Data Carpentry are lesson projects of The Carpentries (a fiscally sponsored project of Community Initiatives). We teach essential computing and data skills to research communities. We exist because the skills needed to do computational, data-intensive research are not offered as basic research training in most universities or disciplines. 
+Software Carpentry, Data Carpentry and Library Carpentry are Lesson Programs of The Carpentries (a fiscally sponsored project of Community Initiatives). We teach essential computing and data skills to research communities. We exist because the skills needed to do computational, data-intensive research are not offered as basic research training in most universities or disciplines. 
 
 ### Find out more 
 
@@ -33,6 +33,8 @@ To discuss workshops, memberships, and instructor training contact: *team@carpen
 **@swcarpentry**
 
 **@datacarpentry**
+
+**@LibCarpentry**
 
 **@thecarpentries**
 
