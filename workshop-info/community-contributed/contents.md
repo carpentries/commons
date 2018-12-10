@@ -1,1 +1,1 @@
-Use this folder for materials created and contributed by community members for sharing. 
+Use this folder for materials created and contributed by community members for sharing. Additional materials can be found in the Library Carpentry Governance [proposals](https://github.com/LibraryCarpentry/governance/tree/master/proposals) folder.
