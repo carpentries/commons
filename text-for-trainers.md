@@ -18,7 +18,7 @@ evidence-based methods that underpin successful pedagogy. It educates instructor
 and inclusive workshop environment. Being a Carpentries' Trainer has sharpened my skills in the following ways. I have
 
 - developed my teaching capabilities, both through the course I attended to certify as a Trainer and through regular practice since `[perhaps list # workshops taught]`
-- gained greater insight into, and knowledge of proven, evidence-based, teaching best practice
+- gained greater insight into and knowledge of proven, evidence-based, teaching best practice
 - managed interpersonal interactions with a wide range of learners from varying backgrounds
 - gained useful perspectives and adaptability through teaching learners with different levels of knowledge and skill
 - developed research and teaching insights by instructing learners from a range of disciplines 
