@@ -2,15 +2,15 @@ This is general text to tell institutions about the benefits of Carpentries' mem
 
 ----------------
 
-### Foundational Computational and Data Skills for Researchers
+### Foundational Computational and Data Skills for Researchers and Librarians
 
-As data gets bigger and more and more research requires computation, your researchers need new skills. 
+As data gets bigger and more and more research requires computation, your researchers and librarians need new skills. 
 Many would like to work more efficiently, but don't know how. No pathway exists to help many graduate students and postdocs 
 learn crucial computational and data science skills.
 
 ### This is a problem Software, Data and Library Carpentry can fix.
 
-We teach researchers foundational computing and data skills. We also help build local communities of practice around tools and disciplines.
+We teach researchers and librarians foundational computing and data skills. We also help build local communities of practice around tools and disciplines.
 
 ### Why is that important?
 
@@ -18,8 +18,8 @@ Learning new skills is one thing. Embedding them is another.  It takes a support
 
 ### How do we help?
 
-1. Software, Data and Library Carpentry partner with institutions to build researcher capacity within your organisation. 
-2. We run two-day workshops that introduce coding and coding best practice to researchers and teach them the basics of data science. 
+1. Software, Data and Library Carpentry partner with institutions to build researcher and librarian capacity within your organisation. 
+2. We run two-day workshops that introduce coding and coding best practice to researchers/librarians and teach them the basics of data science. 
 3. We train new instructors for you so you get more workshops taught. 
 4. We continue mentoring those instructors, who, with their learners, become the core of new communities around disciplines and tools.
 
@@ -27,8 +27,8 @@ Learning new skills is one thing. Embedding them is another.  It takes a support
 
 - Your research training dollars are not wasted on workshops with poor ROI
 - Research productivity is enhanced, leading to faster, more reliable results
-- Researchers are taught the basics of reproducible science
-- You help create and foster the research workforce you need
+- Researchers and librarians are taught the basics of reproducible science
+- You help create and foster the research/librarian workforce you need
 - Offering students training aids recruitment and enhances graduate outcomes
 - Our instructor training program builds great teachers
 
