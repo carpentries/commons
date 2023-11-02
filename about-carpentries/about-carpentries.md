@@ -20,7 +20,7 @@ Data Carpentry learners are taught to work with data more effectively. Workshops
 
 Library Carpentry develops lessons and teaches workshops for and with people working in library- and information-related roles. Our goal is to create an on-ramp to empower this community to use software and data in their own work as well as be advocates for and train others in efficient, effective and reproducible data and software practices. 
   
-What The Carpentries offer
+What The Carpentries offers
 
 - A suite of open source, collaboratively-built, community-developed lessons
 - Workshops based on a learn-by-doing, ‘code with me’ approach
