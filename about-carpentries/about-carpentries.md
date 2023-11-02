@@ -2,7 +2,7 @@ This is reusable text that can be used when you need to describe what the Carpen
 
 ------------
 
-### What are The Carpentries?
+### What is The Carpentries?
 Software Carpentry (SWC), Data Carpentry (DC) and Library Carpentry (LC) are Lesson Programs of The Carpentries (a fiscally sponsored project of Community Initiatives). We teach essential computing and data skills. We exist because the skills needed to do computational, data-intensive research are not part of basic research training in most disciplines.
 
 ### About Software Carpentry     
