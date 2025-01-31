@@ -22,7 +22,7 @@ Software, Data and Library Carpentry partner with institutions to build research
 
 ### Who we are 
 
-Software Carpentry, Data Carpentry and Library Carpentry are Lesson Programs of The Carpentries (a fiscally sponsored project of Community Initiatives). We teach essential computing and data skills to research communities. We exist because the skills needed to do computational, data-intensive research are not offered as basic research training in most universities or disciplines. 
+Software Carpentry, Data Carpentry and Library Carpentry are Lesson Programs of The Carpentries (an independent 501(c)(3) non-profit organisation). We teach essential computing and data skills to research communities. We exist because the skills needed to do computational, data-intensive research are not offered as basic research training in most universities or disciplines. 
 
 ### Find out more 
 
