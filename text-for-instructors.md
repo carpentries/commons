@@ -7,8 +7,7 @@ It lists the skills gained and benefits to people from their Carpentries' involv
 
 ### Text for Instructors
 
-Software, Data, and Library Carpentry (The Carpentries) are programs of The Carpentries (a fiscally sponsored project 
-of Community Initiatives).  The Carpentries Instructors are volunteers who teach foundational 
+Software, Data, and Library Carpentry (The Carpentries) are programs of The Carpentries (an independent 501(c)(3) non-profit organisation).  The Carpentries Instructors are volunteers who teach foundational 
 computational and data skills to researchers, e.g., programming basics in R and Python, use of the command line, 
 and version control. Housed on GitHub, all Carpentries’ lessons are open source, with an open contribution model, 
 and lessons are collaboratively created and maintained by volunteers. Lessons are taught by Instructors in two-day workshops.
